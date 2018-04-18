@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28601" started-at="2018-04-17T11:37:08Z" finished-at="2018-04-17T11:37:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28601" started-at="2018-04-17T11:37:08Z" finished-at="2018-04-17T11:37:37Z">
+      <class name="com.zone.methmal.Homepage">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.zone.methmal.Homepage@3532ec19]" name="launchBrowser" is-config="true" duration-ms="2907" started-at="2018-04-17T17:07:05Z" finished-at="2018-04-17T17:07:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="goToWelcomePage()[pri:0, instance:com.zone.methmal.Homepage@3532ec19]" name="goToWelcomePage" is-config="true" duration-ms="14234" started-at="2018-04-17T17:07:08Z" finished-at="2018-04-17T17:07:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToWelcomePage -->
+        <test-method status="PASS" signature="assertBasics()[pri:0, instance:com.zone.methmal.Homepage@3532ec19]" name="assertBasics" duration-ms="107" started-at="2018-04-17T17:07:22Z" finished-at="2018-04-17T17:07:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertBasics -->
+        <test-method status="PASS" signature="returnToHome()[pri:0, instance:com.zone.methmal.Homepage@3532ec19]" name="returnToHome" is-config="true" duration-ms="916" started-at="2018-04-17T17:07:22Z" finished-at="2018-04-17T17:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnToHome -->
+        <test-method status="PASS" signature="assertLinkTextClick()[pri:0, instance:com.zone.methmal.Homepage@3532ec19]" name="assertLinkTextClick" duration-ms="7044" started-at="2018-04-17T17:07:23Z" finished-at="2018-04-17T17:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertLinkTextClick -->
+        <test-method status="PASS" signature="returnToHome()[pri:0, instance:com.zone.methmal.Homepage@3532ec19]" name="returnToHome" is-config="true" duration-ms="684" started-at="2018-04-17T17:07:30Z" finished-at="2018-04-17T17:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnToHome -->
+        <test-method status="PASS" signature="assertSeeCollection1()[pri:0, instance:com.zone.methmal.Homepage@3532ec19]" name="assertSeeCollection1" duration-ms="2294" started-at="2018-04-17T17:07:31Z" finished-at="2018-04-17T17:07:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertSeeCollection1 -->
+        <test-method status="PASS" signature="returnToHome()[pri:0, instance:com.zone.methmal.Homepage@3532ec19]" name="returnToHome" is-config="true" duration-ms="643" started-at="2018-04-17T17:07:33Z" finished-at="2018-04-17T17:07:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnToHome -->
+        <test-method status="PASS" signature="assertSeeCollection2()[pri:0, instance:com.zone.methmal.Homepage@3532ec19]" name="assertSeeCollection2" duration-ms="698" started-at="2018-04-17T17:07:34Z" finished-at="2018-04-17T17:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertSeeCollection2 -->
+        <test-method status="PASS" signature="returnToHome()[pri:0, instance:com.zone.methmal.Homepage@3532ec19]" name="returnToHome" is-config="true" duration-ms="648" started-at="2018-04-17T17:07:35Z" finished-at="2018-04-17T17:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnToHome -->
+        <test-method status="PASS" signature="assertSeeCollection3()[pri:0, instance:com.zone.methmal.Homepage@3532ec19]" name="assertSeeCollection3" duration-ms="675" started-at="2018-04-17T17:07:35Z" finished-at="2018-04-17T17:07:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertSeeCollection3 -->
+        <test-method status="PASS" signature="returnToHome()[pri:0, instance:com.zone.methmal.Homepage@3532ec19]" name="returnToHome" is-config="true" duration-ms="609" started-at="2018-04-17T17:07:36Z" finished-at="2018-04-17T17:07:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnToHome -->
+        <test-method status="PASS" signature="closeWebBrowser()[pri:0, instance:com.zone.methmal.Homepage@3532ec19]" name="closeWebBrowser" is-config="true" duration-ms="1208" started-at="2018-04-17T17:07:37Z" finished-at="2018-04-17T17:07:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWebBrowser -->
+      </class> <!-- com.zone.methmal.Homepage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

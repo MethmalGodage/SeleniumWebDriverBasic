@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="methmal" verbose="1">
+    <test name="Chrome tests">
+        <classes>
+            <class name="com.zone.methmal.Homepage"/>
+            <class name="com.zone.methmal.OurPassionPage"/>
+            <class name="com.zone.methmal.CheckoutPage"/>
+            <class name="com.zone.methmal.MenuPage"/>            
+            <class name="com.zone.methmal.TalkTeaPage"/>
+        </classes>
+    </test>
+</suite>
